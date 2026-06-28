@@ -10,7 +10,7 @@
 
 
 
-### ⚡ "Code. Automate. Deploy. Innovate."
+### ⚡ "Code. Automate. Deploy. Innovate. ⚡"
 
 
 
