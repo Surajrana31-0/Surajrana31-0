@@ -14,35 +14,6 @@
 
 </div>
 
----
-
-# 💫 About Me
-
-```yaml
-Name: Suraj Rana
-Role: DevOps Engineer & Software Developer
-
-Education:
-  - BSc Computer Science Student
-
-FOCUS:
-  - Cloud Computing
-  - DevOps Automation
-  - Backend Architecture
-  - Mobile Application Development
-  - System Design
-
-Currently_learning:
-  - Kubernetes
-  - CI/CD Pipelines
-  - Infrastructure as Code
-
-Motto:
-  "Turning ideas into reliable and scalable systems."
-```
-
----
-
 
 ### ⚡ "Code. Automate. Deploy. Innovate."
 
