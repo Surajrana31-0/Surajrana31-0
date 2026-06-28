@@ -8,11 +8,6 @@
 
 ---
 
-<div align="center">
-
-<img height="300" width="500" src="https://images.prismic.io/andrewzigler%2Fbb32c0aa-3688-4fc1-bedf-87cc243e1b3c_tic-80-in-javascript-01.gif?auto=compress,format" />
-
-</div>
 
 
 ### ⚡ "Code. Automate. Deploy. Innovate."
